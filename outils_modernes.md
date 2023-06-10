@@ -30,7 +30,7 @@ Compatibilités indicatives
 
 #### Installation
 
-:warning: Préinstallé sur Windows 10 2021 et ultérieur.
+⚠️ Préinstallé sur Windows 10 2021 et ultérieur.
 
 - [MS Store](https://apps.microsoft.com/store/detail/installeur-dapplications/9NBLGGH4NNS1)
 - [GitHub](https://github.com/microsoft/winget-cli)
@@ -94,7 +94,9 @@ winget -h
 
 #### Installation
 
-:warning: Activer la virtualisation dans le BIOS (souvent activée par défault),
+⚠️ disponible uniquement sur les éditions "Pro", "Entreprise", "Éducation"
+
+⚠️ Activer la virtualisation dans le BIOS (souvent activée par défault),
 activer la fonctionnalité "Bac à Sable" dans "Activer ou désactiver des
 fonctionnalités Windows" ou dans powershell
 `Enable-WindowsOptionalFeature -FeatureName "Containers-DisposableClientVM" -All -Online`
@@ -125,7 +127,7 @@ du bac à sable chaque fois que vous ouvrez l’application.
 |     Type      | Logiciel                              |
 |   Interface   | Graphique                             |
 
-:warning: Préinstallé sur windows 11
+⚠️ Préinstallé sur windows 11
 
 - [MS Store](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 - [Winget](https://winstall.app/apps/Microsoft.WindowsTerminal) -
@@ -268,7 +270,7 @@ l'option webhook.
 
 #### Installation
 
-:warning: Nécessite WSL 2 pour windows.
+⚠️ Nécessite WSL 2 pour windows.
 
 - [docker.com](https://www.docker.com/get-started/)
 - [Winget](https://winstall.app/apps/Docker.DockerDesktop) -
@@ -379,7 +381,7 @@ git help
 
 #### Installation
 
-:warning: Nécessite que la virtualisation soit activé dans le BIOS. :warning: Il
+⚠️ Nécessite que la virtualisation soit activé dans le BIOS. :warning: Il
 est préférable d'utiliser la version 2 (WSL 2), normalement par default pour les
 nouvelles installations.
 
