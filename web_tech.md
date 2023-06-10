@@ -23,7 +23,7 @@ date: 2023-06-09Z
 Technologies **libres**, **open source** et **démocratiques** (les avancées des
 technologie sont ouvertes aux propositions et votes de la communauté).
 
-Assurez-vous d'un code aussi simple et expressif que du python, en beaucoup plus sécurisé, rapide, riche.
+Assurez-vous d'un code aussi simple et expressif que du python, en beaucoup plus sécurisé, rapide, riche. Utiliser un language haut niveau avec des performances quasi natives.
 ![Code bench](/assets/code_bench_tri.png)
 
 ## Le language
