@@ -69,7 +69,7 @@ Installer un paquet
 winget install LabPlot2
 ```
 
-Mettre à jour toutes vos applications
+Mettre à jour toutes vos applications (y compris celles installées manuellement)
 
 ```sh
 winget upgrade --all
